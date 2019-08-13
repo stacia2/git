@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2019.1.14)  13 AUG 2019 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2019.1.14)  13 AUG 2019 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1686,7 +1686,7 @@ quanjiao) on input line 53.
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
 (Font)              size <10.95> substituted on input line 54.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
 (d:/Programs/texlive/2017/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2017/04/01 v2.4.9 Windows font map loader for pdfTeX a
 nd DVIPDFMx (CTEX)
@@ -1694,39 +1694,39 @@ nd DVIPDFMx (CTEX)
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
  (./my.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
 Package rerunfilecheck Info: File `my.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C8B63CD3C4A7329CED1F95428E73A70E;75.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 26629 strings out of 492995
- 445099 string characters out of 6132217
+ 26651 strings out of 492995
+ 445431 string characters out of 6132217
  509229 words of memory out of 5000000
- 29604 multiletter control sequences out of 15000+600000
- 37220 words of font info for 143 fonts, out of 8000000 for 9000
+ 29620 multiletter control sequences out of 15000+600000
+ 38905 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,10n,58p,10458b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/s
-imhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simsun.ttc><c:/windows
-/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simhei.ttf><c:
+imhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows
+/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:
 /windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei
-.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simsun.ttc><c:/windows/font
+.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/font
 s/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/wind
 ows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc>
-<c:/windows/fonts/simsun.ttc><c:/windows/fonts/simhei.ttf><c:/windows/fonts/sim
-hei.ttf><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/f
+<c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/sim
+hei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simsun.ttc><c:/windows/f
 onts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/w
-indows/fonts/simsun.ttc><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.t
-tf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simsun.ttc><c:/windows/fonts/
+indows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simhei.t
+tf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/
 simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/window
 s/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c
 :/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsu
@@ -1740,19 +1740,21 @@ windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.
 ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts
 /simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windo
 ws/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><
-c:/windows/fonts/simsun.ttc><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simh
+c:/windows/fonts/simsun.ttc><c:/windows/fonts/simsun.ttc><c:/windows/fonts/simh
 ei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fo
 nts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/wi
 ndows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.tt
-f><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><d:/Programs/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/Programs/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/Programs/texlive
-/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Programs/texlive/
-2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on my.pdf (1 page, 353618 bytes).
+f><c:/windows/fonts/simhei.ttf><c:/windows/fonts/simhei.ttf><c:/windows/fonts/s
+imhei.ttf><d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb><d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb><d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+7.pfb>
+Output written on my.pdf (1 page, 362943 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 2 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 425 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
+ 3 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 

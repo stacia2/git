@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1565665637 "my.tex" "my.pdf" "my" 1565665641
+["pdflatex"] 1565668002 "my.tex" "my.pdf" "my" 1565668005
   "c:/Windows/Fonts/msyh.ttc" 1523489648 19647736 ff2e53a6131130a07589812ea5b5b0d0 ""
   "c:/windows/fonts/simhei.ttf" 1512332880 9753388 6abc0fcfbaa40600f9cecca3afeb3aa7 ""
   "c:/windows/fonts/simsun.ttc" 1523489650 18214472 19674afc0754c3df8182b89fe7f0156d ""
@@ -54,6 +54,7 @@
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei89.tfm" 1547468402 1172 364fffd8ea27d98d6edb9222bf84c180 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8b.tfm" 1547468402 1172 bdf00141a2e7bd9848cfb6dae5c7e1ef ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8d.tfm" 1547468402 1172 f0be8ff15d300dd67be1d65ad94ec80b ""
+  "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8f.tfm" 1547468402 1172 e5ac568cbbb10c21a8919c10147ccf70 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei91.tfm" 1547468402 1172 af08f180dd0ec6a7129972d09ff61a98 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei94.tfm" 1547468402 1172 3342a075989efb631633f68dafc48654 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei95.tfm" 1547468402 1172 5a7e9ba612e7803abcac167ef6c5a665 ""
@@ -115,6 +116,7 @@
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong98.tfm" 1547468405 1172 0d85b1f7b78508ff1f0a5ef94e0aaca9 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9a.tfm" 1547468404 1172 37a3cd36cf03e67f393bee80b1370d05 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongff.tfm" 1547468404 1172 156175f4eaa9daea4e21b890ac9fafb8 ""
+  "d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1547464012 32080 340ef9bf63678554ee606688e7b5339d ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1547464012 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1547464012 35752 024fb6c41858982481f6968b5fc26508 ""
   "d:/Programs/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1547464012 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -251,12 +253,12 @@
   "d:/Programs/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1547468480 2373962 7a9133a74bb943326ec878c0f02a0f55 ""
   "d:/Programs/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1547468615 4130079 1f9eb2aa84e7038aa14cfdd49ba439af ""
   "d:/Programs/texlive/2017/texmf.cnf" 1547468420 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "my.aux" 1565665639 776 41f84424e15219ef683c16d44da7ae6c ""
-  "my.out" 1565665639 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "my.tex" 1565665174 3388 277c82220a2453dbe9a1a7b7d8df34c3 ""
+  "my.aux" 1565668004 861 fe46ecc959daf91ce7d9c915f4ae21ec ""
+  "my.out" 1565668004 75 c8b63cd3c4a7329ced1f95428e73a70e ""
+  "my.tex" 1565667952 3414 2281d8e7f04b28a426cbd364ddb468c5 ""
   "xcumcmart.cls" 1473525004 2330 94f6b2ceaac2f3c9375729e476a8bc14 ""
   (generated)
-  "my.log"
-  "my.aux"
   "my.out"
+  "my.aux"
+  "my.log"
   "my.pdf"
